@@ -1,6 +1,8 @@
 # Neuropixels Enclosure
 A wall monted enclosure for Neuropixels probes
 
+![test](https://github.com/MarinManuel/NeuropixelsEnclosure/assets/65401298/544985de-a0fd-498b-8b0c-4e91c72ef171)
+
 Our design is meant to accomodate the [Neuropixels rods from Sensapex](https://sensapex.com/shop/product/ump-npr-200/). Minor adjustments may be needed to accomodate holders with different diamters.
 
 # Bill of Material
@@ -18,3 +20,4 @@ Mount the blocks on the mounting plate of the junction box. Use the grid to ensu
 Install the mounting plate inside the junction box.
 
 The bottom block can accomodate 1.5mL Eppendorf tubes for cleaning the probes and for protecting the shank when not in use.
+![PXL_20231120_195334535](https://github.com/MarinManuel/NeuropixelsEnclosure/assets/65401298/6280322b-f7e1-4580-b1cf-4bdb69f5ee76)
