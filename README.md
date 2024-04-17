@@ -1,10 +1,11 @@
 # Neuropixels Enclosure
 A wall monted enclosure for Neuropixels probes
-Designed very much inspired by an enclosure shared by Guido Meijer (International Brain Laboratory)
 
-![test](https://github.com/MarinManuel/NeuropixelsEnclosure/assets/65401298/544985de-a0fd-498b-8b0c-4e91c72ef171)
+Design unabashedly inspired by an enclosure shared by Guido Meijer (International Brain Laboratory)
 
 Our design is meant to accomodate the [Neuropixels rods from Sensapex](https://sensapex.com/shop/product/ump-npr-200/). Minor adjustments may be needed to accomodate holders with different diamters.
+
+![A 3D rendering of the enclosure. There is a horizontal block at the top, with 4 vertical slots in which rods holding the neuropixels probes can be installed. At the bottom there is another horizontal blocks in which Eppendorf tubes can be inserted. Using a thumb screw, the rods can be raised or lowered into the tubes](https://github.com/MarinManuel/NeuropixelsEnclosure/assets/65401298/544985de-a0fd-498b-8b0c-4e91c72ef171)
 
 # Bill of Material
  - 3D printed elements
@@ -21,7 +22,7 @@ Mount the blocks on the mounting plate of the junction box. Use the grid to ensu
 Install the mounting plate inside the junction box.
 
 The bottom block can accomodate 1.5mL Eppendorf tubes for cleaning the probes and for protecting the shank when not in use.
-![PXL_20231120_195334535](https://github.com/MarinManuel/NeuropixelsEnclosure/assets/65401298/6280322b-f7e1-4580-b1cf-4bdb69f5ee76)
+![A real-life picture of the actual enclosure](https://github.com/MarinManuel/NeuropixelsEnclosure/assets/65401298/6280322b-f7e1-4580-b1cf-4bdb69f5ee76)
 
 # License
 3D files licensed under [CERN-OHL-W version 2](https://ohwr.org/)
