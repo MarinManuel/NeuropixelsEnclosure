@@ -1,5 +1,6 @@
 # Neuropixels Enclosure
 A wall monted enclosure for Neuropixels probes
+Designed very much inspired by an enclosure shared by Guido Meijer (International Brain Laboratory)
 
 ![test](https://github.com/MarinManuel/NeuropixelsEnclosure/assets/65401298/544985de-a0fd-498b-8b0c-4e91c72ef171)
 
