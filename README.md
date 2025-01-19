@@ -26,3 +26,6 @@ The bottom block can accomodate 1.5mL Eppendorf tubes for cleaning the probes an
 
 # License
 3D files licensed under [CERN-OHL-W version 2](https://ohwr.org/)
+
+# Acknowledgment
+This work was supported in part by NIH-NINDS R01NS132487.
